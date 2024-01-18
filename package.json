@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/Happy-people-13/",
+    "build": "vite build --base=/html_css_102_l1728/",
     "preview": "vite preview"
   },
   "devDependencies": {
